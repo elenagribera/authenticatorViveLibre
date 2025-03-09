@@ -1,0 +1,8 @@
+/home/user/viveLibre/src/main/java/com/AuthenticationServiceApplication.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/dto/TokenResponse.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/dto/GetTokenResponse.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/helpers/Constants.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/controller/AuthenticationController.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/service/AuthenticationService.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/dto/AuthenticationRequest.java
+/home/user/viveLibre/src/main/java/com/example/authenticatorservice/configuration/AuthenticatorViveLibreConfiguration.java
